@@ -1,0 +1,1 @@
+# tecqit-assets
